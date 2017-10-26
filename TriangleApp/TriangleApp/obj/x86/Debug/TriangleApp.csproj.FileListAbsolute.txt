@@ -1,0 +1,14 @@
+C:\Users\TEMP.VLO30-05.004\AppData\Local\Temporary Projects\TriangleApp\bin\Debug\TriangleApp.exe
+C:\Users\TEMP.VLO30-05.004\AppData\Local\Temporary Projects\TriangleApp\bin\Debug\TriangleApp.pdb
+C:\Users\TEMP.VLO30-05.004\AppData\Local\Temporary Projects\TriangleApp\obj\x86\Debug\TriangleApp.Form1.resources
+C:\Users\TEMP.VLO30-05.004\AppData\Local\Temporary Projects\TriangleApp\obj\x86\Debug\TriangleApp.Properties.Resources.resources
+C:\Users\TEMP.VLO30-05.004\AppData\Local\Temporary Projects\TriangleApp\obj\x86\Debug\TriangleApp.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-05.004\AppData\Local\Temporary Projects\TriangleApp\obj\x86\Debug\TriangleApp.exe
+C:\Users\TEMP.VLO30-05.004\AppData\Local\Temporary Projects\TriangleApp\obj\x86\Debug\TriangleApp.pdb
+C:\Users\TEMP.VLO30-05.004\documents\visual studio 2010\Projects\TriangleApp\TriangleApp\obj\x86\Debug\TriangleApp.exe
+C:\Users\TEMP.VLO30-05.004\documents\visual studio 2010\Projects\TriangleApp\TriangleApp\obj\x86\Debug\TriangleApp.pdb
+C:\Users\TEMP.VLO30-05.004\documents\visual studio 2010\Projects\TriangleApp\TriangleApp\bin\Debug\TriangleApp.exe
+C:\Users\TEMP.VLO30-05.004\documents\visual studio 2010\Projects\TriangleApp\TriangleApp\bin\Debug\TriangleApp.pdb
+C:\Users\TEMP.VLO30-05.004\documents\visual studio 2010\Projects\TriangleApp\TriangleApp\obj\x86\Debug\TriangleApp.Form1.resources
+C:\Users\TEMP.VLO30-05.004\documents\visual studio 2010\Projects\TriangleApp\TriangleApp\obj\x86\Debug\TriangleApp.Properties.Resources.resources
+C:\Users\TEMP.VLO30-05.004\documents\visual studio 2010\Projects\TriangleApp\TriangleApp\obj\x86\Debug\TriangleApp.csproj.GenerateResource.Cache
